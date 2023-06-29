@@ -1,6 +1,4 @@
 ﻿  EmployeeMain.cpp
-C:\Users\samie\OneDrive\Documents\CS303 Programs\Assignment2\Employee_Class\Employee_Class\EmployeeMain.cpp(6,41): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\samie\OneDrive\Documents\CS303 Programs\Assignment2\Employee_Class\Employee_Class\EmployeeMain.cpp(7,48): warning C4305: 'argument': truncation from 'double' to 'float'
-  Professional.cpp
-  Generating Code...
+C:\Users\samie\OneDrive\Documents\CS303 Programs\Assignment2\Employee_Class\Employee_Class\EmployeeMain.cpp(8,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\samie\OneDrive\Documents\CS303 Programs\Assignment2\Employee_Class\Employee_Class\EmployeeMain.cpp(9,72): warning C4305: 'argument': truncation from 'double' to 'float'
   Employee_Class.vcxproj -> C:\Users\samie\OneDrive\Documents\CS303 Programs\Assignment2\Employee_Class\x64\Debug\Employee_Class.exe
